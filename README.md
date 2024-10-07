@@ -9,7 +9,8 @@ Title: Efficient Self Supervised Representations for Speech Processing
 
 1) QE report in PDF.
 2) Presentation Slides
-3) Presentation Video Link: https://youtu.be/h7VLaXwLRT0 
+3) Presentation Video Link: https://youtu.be/h7VLaXwLRT0
+4) Latex files in .zip to use template directly.
 
 **<ins>Main take aways I hope you could learn/obtain from my slides</ins>:**
 
